@@ -9,8 +9,3 @@ Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é bu
 
 Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
-
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
-
-Nos vemos lá!
